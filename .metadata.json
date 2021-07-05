@@ -1,0 +1,12 @@
+[
+  {
+    "package": "splatter"
+  },
+  {
+    "package": "clustree",
+    "oncran": true
+  },
+  {
+    "package": "zellkonverter"
+  }
+]
