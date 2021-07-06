@@ -8,5 +8,11 @@
   },
   {
     "package": "zellkonverter"
+  },
+  {
+    "package": "clamour"
+  },
+  {
+    "package": "doilinker"
   }
 ]

@@ -18,3 +18,13 @@
 	url = https://github.com/theislab/zellkonverter
 	shallow = true
 	registered = true
+[submodule "clamour"]
+	path = clamour
+	url = https://github.com/lazappi/clamour
+	shallow = true
+	registered = true
+[submodule "doilinker"]
+	path = doilinker
+	url = https://github.com/lazappi/doilinker
+	shallow = true
+	registered = true
