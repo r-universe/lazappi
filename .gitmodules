@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/lazappi/universe
-	shallow = true
 	branch = HEAD
-[submodule "splatter"]
-	path = splatter
-	url = https://github.com/Oshlack/splatter
-	shallow = true
-	registered = true
-[submodule "clustree"]
-	path = clustree
-	url = https://github.com/lazappi/clustree
-	shallow = true
-	registered = true
-[submodule "zellkonverter"]
-	path = zellkonverter
-	url = https://github.com/theislab/zellkonverter
-	shallow = true
-	registered = true
 [submodule "clamour"]
 	path = clamour
 	url = https://github.com/lazappi/clamour
-	shallow = true
-	registered = true
+[submodule "clustree"]
+	path = clustree
+	url = https://github.com/lazappi/clustree
 [submodule "doilinker"]
 	path = doilinker
 	url = https://github.com/lazappi/doilinker
-	shallow = true
-	registered = true
+[submodule "splatter"]
+	path = splatter
+	url = https://github.com/Oshlack/splatter
+[submodule "zellkonverter"]
+	path = zellkonverter
+	url = https://github.com/theislab/zellkonverter
