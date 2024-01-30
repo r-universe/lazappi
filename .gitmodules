@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lazappi/universe
+	url = https://github.com/lazappi/lazappi.r-universe.dev
 	branch = HEAD
+[submodule "anndataR"]
+	path = anndataR
+	url = https://github.com/scverse/anndataR
 [submodule "clamour"]
 	path = clamour
 	url = https://github.com/lazappi/clamour
